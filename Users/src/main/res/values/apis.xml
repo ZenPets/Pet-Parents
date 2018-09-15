@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- THE API KEY'S -->
+    <string name="facebook_app_id">1584967218498481</string>
+    <string name="google_maps_key">AIzaSyCoMTYVqI-JmuJ_cTV8TDqASsc2lknnQ_Q</string>
+    <string name="google_static_map_api_key">AIzaSyD-5QWNIgI2O0F6JmmrGZyKUHUPb_YePkw</string>
+    <!--<string name="google_directions_api_key">AIzaSyAW3Rn42MhLRJ8EeeCGuyYSiPV5Q5q_4bI</string>-->
+    <string name="google_directions_api_key">AIzaSyDSJMH7Oh4FS3sUgv30g6VBSugpVandEMw</string>
+
+    <!-- RAZOR PAY API KEYS -->
+    <string name="razor_pay_api_key_id">rzp_test_ySDpAnHqFLEgk3</string>
+    <string name="razor_pay_api_key_secret">Pt4op0fbrZtMCJT0idcdBi67</string>
+</resources>
